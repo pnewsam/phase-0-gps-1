@@ -7,4 +7,5 @@ puts 'This is Ruby'
 
 ![Screenshot Image](GPS11-screenshot.png)
 
-This is a small conflict #2.
+This is a small conflict #1
+
