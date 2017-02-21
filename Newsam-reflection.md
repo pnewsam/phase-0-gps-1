@@ -13,3 +13,5 @@ There is still plenty about Git that confuses me, because there are all kinds of
 
 **How was your first experience of pairing in a GPS?**
 It was great! Helen was bunches of fun to pair with, and I think we had a good rapport. It was clear she'd done plenty of studying and she clarified a few points for me, which was really valuable. Helin as a guide was also really great - she mostly just observed but stepped in every time we had some kind of question we couldn't answer. Having someone there who knew how these concepts are applied in the real world provided an invaluable perspective.
+
+Edit: I forgot to merge on GitHub as opposed to on local repository, so updating with this edit.
